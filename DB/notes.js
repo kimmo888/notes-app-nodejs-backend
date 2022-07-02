@@ -16,6 +16,12 @@ const notesData = [
         content: 'GET and POST are the most important methods of HTTP protocol',
         date: '2019-05-30T19:20:14.298Z',
         important: true
+    },
+    {
+        id: 4,
+        content: 'Nuevo Ingreso de Nota',
+        date: '2019-05-30T18:39:34.091Z',
+        important: true
     }
 ]
 
